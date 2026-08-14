@@ -1,0 +1,6 @@
+{
+  "name": "MR DOLLAR",
+  "description": "MR DOLLAR - سكربت حصري ومتقدم لتفاحة الحظ والألغام مع تفعيل فوري ودعم فني متواصل",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
